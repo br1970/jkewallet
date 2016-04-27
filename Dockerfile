@@ -1,3 +1,3 @@
 # test....
 
-from https://gcr.io/jkecloudproject/mf80
+from https://gcr.io/jkecloudproject/mf80:latest
